@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-label="Pictograma GHS05: corrosión">
+  <title>GHS05 – Corrosión</title>
+  <polygon points="50,2.5 97.5,50 50,97.5 2.5,50" fill="#fff" stroke="#D5001C" stroke-width="7" stroke-linejoin="miter"/>
+  <!-- tubos de ensayo inclinados -->
+  <g fill="#111" stroke="none">
+    <g transform="rotate(38 38 26)">
+      <path d="M31 10h14v22a7 7 0 0 1-14 0z"/>
+    </g>
+    <g transform="rotate(38 56 22)">
+      <path d="M49 8h14v20a7 7 0 0 1-14 0z"/>
+    </g>
+    <!-- gotas -->
+    <path d="M34 47c2 3 3 5 3 7a3 3 0 0 1-6 0c0-2 1-4 3-7z"/>
+    <path d="M52 44c2 3 3 5 3 7a3 3 0 0 1-6 0c0-2 1-4 3-7z"/>
+    <!-- barra (metal corroído) -->
+    <path d="M18 66h30v6H18z"/>
+    <path d="M18 72l3 3 3-3 3 3 3-3 3 3 3-3 3 3 3-3z"/>
+    <!-- mano -->
+    <path d="M58 70c0-6 1-11 3-15v-6a2.2 2.2 0 0 1 4.4 0v5l1-8a2.2 2.2 0 0 1 4.4 0l.2 8 1.2-6a2.2 2.2 0 0 1 4.3.8l-.8 7.5c3 3 3 7 3 10 0 3-1 5-2 6H62c-3-1-4-3-4-6z"/>
+  </g>
+  <path d="M60 72l3 3 3-3 3 3 3-3 3 3 2-2" fill="none" stroke="#fff" stroke-width="1.6"/>
+</svg>
